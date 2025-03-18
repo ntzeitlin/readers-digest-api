@@ -1,0 +1,122 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "title": "The Enigma Code",
+            "author": "Alan Turing",
+            "isbn_number": "9780451521234",
+            "cover_image": "https://example.com/enigma.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields": {
+            "user": 3,
+            "title": "Deep Space Chronicles",
+            "author": "Carl Sagan",
+            "isbn_number": "9780743279876",
+            "cover_image": "https://example.com/space.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields": {
+            "user": 5,
+            "title": "The Last Algorithm",
+            "author": "Ada Lovelace",
+            "isbn_number": "9780141182636",
+            "cover_image": "https://example.com/algorithm.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields": {
+            "user": 2,
+            "title": "Artificial Minds",
+            "author": "John McCarthy",
+            "isbn_number": "9781234567890",
+            "cover_image": "https://example.com/ai.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields": {
+            "user": 6,
+            "title": "Ocean Explorers",
+            "author": "Jacques Cousteau",
+            "isbn_number": "9780987654321",
+            "cover_image": "https://example.com/ocean.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 6,
+        "fields": {
+            "user": 4,
+            "title": "Quantum Realities",
+            "author": "Richard Feynman",
+            "isbn_number": "9780195158998",
+            "cover_image": "https://example.com/quantum.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 7,
+        "fields": {
+            "user": 1,
+            "title": "Mythical Beasts",
+            "author": "Joseph Campbell",
+            "isbn_number": "9780306802223",
+            "cover_image": "https://example.com/myth.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 8,
+        "fields": {
+            "user": 3,
+            "title": "The Art of Code",
+            "author": "Donald Knuth",
+            "isbn_number": "9780201038186",
+            "cover_image": "https://example.com/code.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 9,
+        "fields": {
+            "user": 5,
+            "title": "Lost Civilizations",
+            "author": "Graham Hancock",
+            "isbn_number": "9780307986825",
+            "cover_image": "https://example.com/civilization.jpg",
+            "categories": []
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 10,
+        "fields": {
+            "user": 2,
+            "title": "The Hidden Cosmos",
+            "author": "Brian Greene",
+            "isbn_number": "9780141029827",
+            "cover_image": "https://example.com/cosmos.jpg",
+            "categories": []
+        }
+    }
+]
